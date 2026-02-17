@@ -1,0 +1,42 @@
+export const events = [
+  {
+    title: "React Summit",
+    image: "/images/react-summit.jpg",
+    slug: "react-summit",
+    location: "Amsterdam, Netherlands",
+    date: "2026-03-15",
+    time: "09:00 AM",
+  },
+  {
+    title: "JSConf EU",
+    image: "/images/jsconf-eu.jpg",
+    slug: "jsconf-eu",
+    location: "Berlin, Germany",
+    date: "2026-05-20",
+    time: "10:00 AM",
+  },
+  {
+    title: "HackMIT",
+    image: "/images/hackmit.jpg",
+    slug: "hackmit",
+    location: "Cambridge, MA, USA",
+    date: "2026-09-10",
+    time: "08:00 AM",
+  },
+  {
+    title: "Next.js Conf",
+    image: "/images/nextjs-conf.jpg",
+    slug: "nextjs-conf",
+    location: "San Francisco, CA, USA",
+    date: "2026-11-05",
+    time: "11:00 AM",
+  },
+  {
+    title: "PyCon US",
+    image: "/images/pycon-us.jpg",
+    slug: "pycon-us",
+    location: "Pittsburgh, PA, USA",
+    date: "2026-04-10",
+    time: "09:30 AM",
+  },
+];
